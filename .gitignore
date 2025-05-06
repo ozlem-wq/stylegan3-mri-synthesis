@@ -1,0 +1,7 @@
+# Colab çıktıları
+stylegan3_mri_results/
+train.log
+*.zip
+
+# Dataset LMDB (isterseniz DVC kullanın)
+data/
